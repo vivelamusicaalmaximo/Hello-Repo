@@ -10,6 +10,7 @@ namespace Hello_Repo
     {
         static void Main(string[] args)
         {
+            Console.Write("Hello Repo");
         }
     }
 }
